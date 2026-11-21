@@ -57,7 +57,7 @@ AI_Resume_Analyzer/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Anant-06/ML-CaPsule.git
+git clone https://github.com/Anant-06/.git
 ```
 
 ---
