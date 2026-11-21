@@ -57,7 +57,7 @@ AI_Resume_Analyzer/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Anant-06/.git
+git clone https://github.com/Anant-06/AI-Resume-Analyzer.git
 ```
 
 ---
@@ -65,7 +65,7 @@ git clone https://github.com/Anant-06/.git
 ## 2️⃣ Navigate to Project Folder
 
 ```bash
-cd AI_Resume_Analyzer
+cd AI-Resume-Analyzer
 ```
 
 ---
