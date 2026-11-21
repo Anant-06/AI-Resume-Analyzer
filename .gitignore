@@ -1,5 +1,10 @@
 .env
+.env.*
+!.env.example
+.env_backup/
 __pycache__/
 *.pyc
-test_gemini.py
-list_models.pygit rm --cached __pycache__/skills.cpython-313.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.streamlit/secrets.toml
