@@ -65,7 +65,7 @@ git clone https://github.com/Anant-06/.git
 ## 2️⃣ Navigate to Project Folder
 
 ```bash
-cd ML-CaPsule/AI_Resume_Analyzer
+cd AI_Resume_Analyzer
 ```
 
 ---
